@@ -1,0 +1,8 @@
+title: Team-Half-and-Half's Project page
+description: 
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
