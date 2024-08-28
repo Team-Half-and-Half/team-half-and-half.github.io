@@ -4,7 +4,7 @@ layout: default
 # Team Half and Half
 
 ## Team Members
-* [Xavier Burt](httpes://xavierburt.github.io/)
+* [Xavier Burt](https://xavierburt.github.io/)
 * [Jonathan Sapolu](https://jsapolu99.github.io/)
 * [Nicholas Beydler](https://beydlern.github.io/)
 * [Christopher Pascual](https://caspascual.github.io/)
