@@ -4,14 +4,14 @@ layout: default
 # Team Half and Half
 
 ## Team Members
-* Xavier Burt
-* Jonathan Sapolu
-* Nicholas Beydler
-* Christopher Pascual
-* Samantha Mallari
-* Anthony Tirabassi
-* Payton Higa
-* Brandon Nelson
+* [Xavier Burt](https://github.com/XavierBurt)
+* [Jonathan Sapolu](https://jsapolu99.github.io/)
+* [Nicholas Beydler](https://github.com/beydlern)
+* [Christopher Pascual](https://github.com/caspascual)
+* [Samantha Mallari](https://github.com/samallari)
+* [Anthony Tirabassi](https://github.com/t-tirabassi)
+* [Payton Higa](https://github.com/PaytonHAH)
+* [Brandon Nelson](https://github.com/bksnelson)
 
 ## Key Outcomes
 
