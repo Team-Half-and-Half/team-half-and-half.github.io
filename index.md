@@ -4,14 +4,14 @@ layout: default
 # Team Half and Half
 
 ## Team Members
-* [Xavier Burt](https://github.com/XavierBurt)
+* [Xavier Burt](httpes://xavierburt.github.io/)
 * [Jonathan Sapolu](https://jsapolu99.github.io/)
-* [Nicholas Beydler](https://github.com/beydlern)
-* [Christopher Pascual](https://github.com/caspascual)
-* [Samantha Mallari](https://github.com/samallari)
-* [Anthony Tirabassi](https://github.com/t-tirabassi)
-* [Payton Higa](https://github.com/PaytonHAH)
-* [Brandon Nelson](https://github.com/bksnelson)
+* [Nicholas Beydler](https://beydlern.github.io/)
+* [Christopher Pascual](https://caspascual.github.io/)
+* [Samantha Mallari](https://samallari.github.io/)
+* [Anthony Tirabassi](https://t-tirabassi.github.io/)
+* [Payton Higa](https://PaytonHAH.github.io/)
+* [Brandon Nelson](https://bksnelson.github.io/)
 
 ## Key Outcomes
 
