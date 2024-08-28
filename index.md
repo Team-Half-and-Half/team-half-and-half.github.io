@@ -22,7 +22,7 @@ layout: default
 * Visually present the companies numbers as non-static, allowing them to see how different inputs can change the forecast
 * Create visually pleasing charts and dashboard that are easy to look at and navigate
 
-## Table of Contets: 
+## Table of Contents: 
 
 ## Resources
 View our team contract [here](https://docs.google.com/document/d/1PjFIRw1aXRPUn2tKEE4p0D7bu_I8XHgkIsCQO42zJVk/edit?usp=sharing)
