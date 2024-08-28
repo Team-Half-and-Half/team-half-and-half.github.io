@@ -4,6 +4,14 @@ layout: default
 # Team Half and Half
 
 ## Team Members
+* Xavier Burt
+* Jonathan Sapolu
+* Nicholas Beydler
+* Christopher Pascual
+* Samantha Mallari
+* Anthony Tirabassi
+* Payton Higa
+* Brandon Nelson
 
 ## Table of Contets: 
 
