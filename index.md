@@ -6,13 +6,13 @@ layout: default
 ## Table of Contents
 - [Overview](#overview)
 - [Key Outcomes](#key-outcomes)
-- [User Guide](#)
-- Community Feedback
-- Developer Guide
-- Continuous Integration
-- Deployment
-- Development History
-- Team Members
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+- [Continuous Integration](#continuous-integration)
+- [Deployment](#deployment)
+- [Development History](#development-history)
+- [Team Members](#team-members)
 
 ## Overview
 [SpireBooks](https://github.com/Team-Half-and-Half/spirebooks) is a management decision tool, made with the intent to facilitate and help organizations make informed financial and strategic decisions based on a comprehensive consolidation of financial data and integration of non-financial factors.
