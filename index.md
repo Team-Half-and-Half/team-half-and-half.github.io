@@ -48,7 +48,7 @@ GitHub organization page: [github.com/Team-Half-and-Half](https://github.com/Tea
 ## Community Feedback
 ## Developer Guide
 ## Continuous Integration
-![ci-badge](https://github.com/Team-Half-and-Half/spirebooks/workflows/spirebooks/badge.svg)
+[![ci-spirebooks](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml/badge.svg)](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml)
 
 SpireBooks uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/Team-Half-and-Half/spirebooks/actions](https://github.com/Team-Half-and-Half/spirebooks/actions).
 
