@@ -42,8 +42,20 @@ GitHub organization page: [github.com/Team-Half-and-Half](https://github.com/Tea
 <p style="font-weight: bold; text-align: center">Dashboard</p>
 <img src="img/layouts/dashboard-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
-<p style="font-weight: bold; text-align: center">Import Data</p>
+<p style="font-weight: bold; text-align: center">Financing > Balance Sheet</p>
+<img src="img/layouts/balance-sheet-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Audit > Import</p>
 <img src="img/layouts/import-data-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Visualize > Compare Projections</p>
+<img src="img/layouts/compare-projections-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Visualize > Manage Projections</p>
+<img src="img/layouts/manage-projections-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Manage > Verification Table (Admin Only)</p>
+<img src="img/layouts/verify-user-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 ## Community Feedback
 ## Developer Guide
@@ -66,14 +78,22 @@ The development process for SpireBooks conformed to Issue Driven Project Managem
 - The following sections document the development history of SpireBooks.
 
 ### Milestone 1
-The goals for Milestone 1 are to have several mockup pages and acceptance tests.
+The goals for Milestone 1 were to have several mockup pages and acceptance tests.
 
-Milestone 1 was managed using [SpireBooks Github Project Board M1](https://github.com/orgs/Team-Half-and-Half/projects/1/views/1).
+Milestone 1 was managed using [SpireBooks Github Project Board Milestone 1](https://github.com/orgs/Team-Half-and-Half/projects/1/views/1).
 
 ### Milestone 2
-The goals for Milestone 2 are to add functionality to the pages and to setup our databases.
+The goals for Milestone 2 were to add functionality to the pages and to setup our databases.
 
-Milestone 2 was managed using [SpireBooks Github Project Board M2](https://github.com/orgs/Team-Half-and-Half/projects/5/views/2).
+Milestone 2 was managed using [SpireBooks Github Project Board Customer Meeting 1](https://github.com/orgs/Team-Half-and-Half/projects/5/views/2).
+
+### Milestone 3-4
+The goals for Milestone 3-4 were to continue implementing functionality, with a focus on the databases. 
+
+Milestone 3-4 was managed using [SpireBooks Github Project Board Customer Meeting 2](https://github.com/orgs/Team-Half-and-Half/projects/6/views/1).
+
+### Milestone 5
+Milestone 5 was managed using [SpireBooks Github Project Board Milestone 5](https://github.com/orgs/Team-Half-and-Half/projects/10/views/1).
 
 ## Team Members
 SpireBooks was created for and in collaboration with Spire Hawaii as part of the University of Hawaii at Manoa's Software Engineering II Fall 2024 course. It is created and maintained by the following students:
