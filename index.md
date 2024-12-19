@@ -7,10 +7,7 @@ layout: default
 - [Overview](#overview)
 - [Key Outcomes](#key-outcomes)
 - [User Guide](#user-guide)
-- [Community Feedback](#community-feedback)
-- [Developer Guide](#developer-guide)
 - [Continuous Integration](#continuous-integration)
-- [Deployment](#deployment)
 - [Development History](#development-history)
 - [Team Members](#team-members)
 
@@ -40,22 +37,31 @@ GitHub organization page: [github.com/Team-Half-and-Half](https://github.com/Tea
 <img src="img/layouts/sign-up-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 <p style="font-weight: bold; text-align: center">Dashboard</p>
-<img src="img/layouts/dashboard-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<img src="img/layouts/dashboard.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
-<p style="font-weight: bold; text-align: center">Financing > Balance Sheet</p>
-<img src="img/layouts/balance-sheet-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<p style="font-weight: bold; text-align: center">Financing > Audited Balance Sheet</p>
+<img src="img/layouts/balance-sheet.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
-<p style="font-weight: bold; text-align: center">Audit > Import</p>
-<img src="img/layouts/import-data-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<p style="font-weight: bold; text-align: center">Financing > Budget P&L Sheet</p>
+<img src="img/layouts/budget-sheet.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Financing > Scenario Profiles</p>
+<img src="img/layouts/scenario-profiles.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">Audit > Upload</p>
+<img src="img/layouts/import-file.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 <p style="font-weight: bold; text-align: center">Visualize > Compare Projections</p>
-<img src="img/layouts/compare-projections-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<img src="img/layouts/compare-projections.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 <p style="font-weight: bold; text-align: center">Visualize > Manage Projections</p>
-<img src="img/layouts/manage-projections-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<img src="img/layouts/manage-projections.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 <p style="font-weight: bold; text-align: center">Manage > Verification Table</p>
-<img src="img/layouts/verify-user-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+<img src="img/layouts/verify-users.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+
+<p style="font-weight: bold; text-align: center">User Settings</p>
+<img src="img/layouts/user-settings.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 ## Continuous Integration
 [![ci-spirebooks](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml/badge.svg)](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml)
@@ -82,34 +88,25 @@ Milestone 1 was managed using [SpireBooks Github Project Board Milestone 1](http
 ### Milestone 2
 The goals for Milestone 2 were to add functionality to the pages and to setup our databases.
 
-Milestone 2 was managed using [SpireBooks Github Project Board Customer Meeting 1](https://github.com/orgs/Team-Half-and-Half/projects/5/views/2).
+Milestone 2 was managed using [SpireBooks Github Project Board Milestone 2 (Customer Meeting)](https://github.com/orgs/Team-Half-and-Half/projects/5/views/2).
 
 ### Milestone 3-4
 The goals for Milestone 3-4 were to continue implementing functionality, with a focus on the databases. 
 
-Milestone 3-4 was managed using [SpireBooks Github Project Board Customer Meeting 2](https://github.com/orgs/Team-Half-and-Half/projects/6/views/1).
+Milestone 3-4 was managed using [SpireBooks Github Project Board Milestone 4 (Customer Meeting)](https://github.com/orgs/Team-Half-and-Half/projects/6/views/1).
 
 ### Milestone 5
 Milestone 5 was managed using [SpireBooks Github Project Board Milestone 5](https://github.com/orgs/Team-Half-and-Half/projects/10/views/1).
 
 ### Milestone 6
-Milestone 6 was managed using [SpireBooks Github Project Board Milestone 6](https://github.com/orgs/Team-Half-and-Half/projects/11).
+Milestone 6 was managed using [SpireBooks Github Project Board Milestone 6 (Customer Meeting)](https://github.com/orgs/Team-Half-and-Half/projects/11).
 
 ### Milestone 7
 The goals for Milestone 7 were to finalize the application and implement specific roles and permissions for each page.
 
-Milestone 7 was managed using [SpireBooks Github Project Board Milestone 7](https://github.com/orgs/Team-Half-and-Half/projects/12).
+Milestone 7 was managed using [SpireBooks Github Project Board Milestone 7 (Customer Meeting)](https://github.com/orgs/Team-Half-and-Half/projects/12).
 
 ## Team Members
-SpireBooks was created for and in collaboration with Spire Hawaii as part of the University of Hawaii at Manoa's Software Engineering II Fall 2024 course. It is developed and maintained by the following students:
-
-* [Xavier Burt](https://xavierburt.github.io/)
-* [Jonathan Sapolu](https://jsapolu99.github.io/)
-* [Nicholas Beydler](https://beydlern.github.io/)
-* [Christopher Pascual](https://caspascual.github.io/)
-* [Samantha Mallari](https://samallari.github.io/)
-* [Anthony Tirabassi](https://t-tirabassi.github.io/)
-* [Payton Higa](https://PaytonHAH.github.io/)
-* [Brandon Nelson](https://bksnelson.github.io/)
+SpireBooks was created for and in collaboration with [Spire Hawaii](https://spirehawaii.com) as part of the [University of Hawaii at Manoa's](https://www.ics.hawaii.edu/) Software Engineering II Fall 2024 course. It is developed and maintained by the following students: [Nicholas Beydler](https://beydlern.github.io/), [Xavier Burt](https://xavierburt.github.io/), [Payton Higa](https://PaytonHAH.github.io/), [Samantha Mallari](https://samallari.github.io/), [Brandon Nelson](https://bksnelson.github.io/), [Christopher Pascual](https://caspascual.github.io/), [Jonathan Sapolu](https://jsapolu99.github.io/), and [Anthony Tirabassi](https://t-tirabassi.github.io/).
 
 View our team contract [here](https://docs.google.com/document/d/1PjFIRw1aXRPUn2tKEE4p0D7bu_I8XHgkIsCQO42zJVk/edit?usp=sharing).
