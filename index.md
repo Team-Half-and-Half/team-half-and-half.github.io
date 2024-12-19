@@ -54,17 +54,14 @@ GitHub organization page: [github.com/Team-Half-and-Half](https://github.com/Tea
 <p style="font-weight: bold; text-align: center">Visualize > Manage Projections</p>
 <img src="img/layouts/manage-projections-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
-<p style="font-weight: bold; text-align: center">Manage > Verification Table (Admin Only)</p>
+<p style="font-weight: bold; text-align: center">Manage > Verification Table</p>
 <img src="img/layouts/verify-user-page.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
-## Community Feedback
-## Developer Guide
 ## Continuous Integration
 [![ci-spirebooks](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml/badge.svg)](https://github.com/Team-Half-and-Half/spirebooks/actions/workflows/ci.yml)
 
 SpireBooks uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/Team-Half-and-Half/spirebooks/actions](https://github.com/Team-Half-and-Half/spirebooks/actions).
 
-## Deployment
 ## Development History
 The development process for SpireBooks conformed to Issue Driven Project Management practices. In a nutshell:
 
@@ -95,8 +92,16 @@ Milestone 3-4 was managed using [SpireBooks Github Project Board Customer Meetin
 ### Milestone 5
 Milestone 5 was managed using [SpireBooks Github Project Board Milestone 5](https://github.com/orgs/Team-Half-and-Half/projects/10/views/1).
 
+### Milestone 6
+Milestone 6 was managed using [SpireBooks Github Project Board Milestone 6](https://github.com/orgs/Team-Half-and-Half/projects/11).
+
+### Milestone 7
+The goals for Milestone 7 were to finalize the application and implement specific roles and permissions for each page.
+
+Milestone 7 was managed using [SpireBooks Github Project Board Milestone 7](https://github.com/orgs/Team-Half-and-Half/projects/12).
+
 ## Team Members
-SpireBooks was created for and in collaboration with Spire Hawaii as part of the University of Hawaii at Manoa's Software Engineering II Fall 2024 course. It is created and maintained by the following students:
+SpireBooks was created for and in collaboration with Spire Hawaii as part of the University of Hawaii at Manoa's Software Engineering II Fall 2024 course. It is developed and maintained by the following students:
 
 * [Xavier Burt](https://xavierburt.github.io/)
 * [Jonathan Sapolu](https://jsapolu99.github.io/)
